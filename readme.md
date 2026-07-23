@@ -4,10 +4,8 @@
 
 This file contains the complete Week 1 learning plan.
 
-- Use [`day-1.md`](day-1.md) for the standalone general version of Day 1.
-- Use [`day-1-computer-science.md`](day-1-computer-science.md) instead if you want a longer Day 1 lesson focused on computer science.
-- Choose one Day 1 version; you do not need to complete both.
-- Continue with Days 2–7 in this file after completing your chosen Day 1 lesson.
+- Start with [`day-1-computer-science.md`](day-1-computer-science.md), the dedicated Day 1 lesson.
+- Continue with Days 2–7 in this file after completing Day 1.
 
 ## Mục tiêu tuần
 
@@ -117,197 +115,6 @@ Không cần học hết lý thuyết trước. Bạn sẽ học grammar từ ch
 
 ---
 
-## DAY 1 — READ, COPY, AND IMITATE
-
-### Mục tiêu
-
-* Hiểu cấu trúc của một bài giới thiệu.
-* Làm quen với 12 mẫu câu.
-* Nói được 30–60 giây dựa trên bài mẫu.
-
-### Tổng thời gian: 75–90 phút
-
----
-
-### Bước 1 — Đọc bài mẫu
-
-#### Model Essay 1
-
-**Topic: Introduce yourself**
-
-> Hi, I’m Alex. At the moment, I spend most of my time learning programming, improving my English, and working on personal projects. I have already graduated from university, so I am not completely new to technology. However, there are still many practical skills that I want to develop.
->
-> I would describe myself as curious and ambitious. When I become interested in something, I usually want to understand it deeply. One of my strengths is that I can learn new concepts quite quickly. However, I sometimes try to learn too many things at once, which makes it difficult for me to stay focused.
->
-> My current goal is to become more confident in English. I can understand quite a lot when I listen or read, but speaking and writing are still challenging for me. Over the next six months, I want to practise every day until English becomes a natural part of my life.
-
-Khoảng 150 từ.
-
----
-
-### Bước 2 — Đọc thành tiếng
-
-Đọc bài theo 3 vòng.
-
-#### Vòng 1 — Slow reading
-
-Đọc chậm, rõ từng từ.
-
-Không cần giống giọng bản xứ.
-
-Mục tiêu là không nuốt từ.
-
-#### Vòng 2 — Chunk reading
-
-Chia câu thành từng cụm:
-
-```text
-At the moment /
-I spend most of my time /
-learning programming /
-improving my English /
-and working on personal projects.
-```
-
-Không đọc từng từ riêng biệt. Đọc theo cụm ý.
-
-#### Vòng 3 — Natural reading
-
-Đọc toàn bài tự nhiên hơn.
-
-Ghi âm lại.
-
-Không cần nghe lại quá nhiều. Chỉ kiểm tra:
-
-* Có từ nào đọc không ra?
-* Có đoạn nào thường xuyên bị vấp?
-* Có câu nào quá dài?
-
----
-
-### Bước 3 — Phân tích cấu trúc bài
-
-Bài có 3 đoạn.
-
-#### Paragraph 1 — Current situation
-
-```text
-Who you are
-What you currently do
-Your previous experience
-What you still want to improve
-```
-
-#### Paragraph 2 — Personality
-
-```text
-Your personality
-Your strength
-Your weakness
-How your personality affects your life
-```
-
-#### Paragraph 3 — Goal
-
-```text
-Your current goal
-Your current problem
-Your six-month target
-```
-
----
-
-### Bước 4 — Chép và thay thông tin
-
-Chép bài mẫu một lần.
-
-Sau đó thay những phần sau bằng thông tin của bạn:
-
-| Bài mẫu                    | Thay bằng thông tin của bạn |
-| -------------------------- | ------------------------- |
-| Alex                       | Tên tiếng Anh bạn chọn      |
-| learning programming       | Hoạt động hiện tại        |
-| improving my English       | Một hoạt động khác        |
-| personal projects          | Dự án hoặc công việc      |
-| curious and ambitious      | Hai tính từ mô tả bạn       |
-| learn new concepts quickly | Điểm mạnh                 |
-| learn too many things      | Điểm yếu                  |
-| confident in English       | Mục tiêu                  |
-
----
-
-### Bước 5 — Bài nhại có kiểm soát
-
-Điền vào bài dưới đây.
-
-```text
-Hi, I’m ______.
-
-At the moment, I spend most of my time ______, ______, and ______.
-
-I have already ______, so I am not completely new to ______.
-
-However, I still want to improve ______.
-
-I would describe myself as ______ and ______.
-
-When I become interested in something, I usually ______.
-
-One of my strengths is ______.
-
-However, I sometimes struggle with ______, which makes it difficult for me to ______.
-
-My current goal is to ______.
-
-I can already ______, but ______ is still difficult for me.
-
-Over the next six months, I want to ______.
-```
-
----
-
-### Bước 6 — Speaking 30–60 giây
-
-Chỉ nhìn keyword:
-
-```text
-name
-current activities
-university
-personality
-strength
-weakness
-English goal
-```
-
-Nói tối thiểu 30 giây.
-
-Không được đọc nguyên bài.
-
-Khi quên, dùng câu cứu:
-
-```text
-Let me think for a moment.
-What I want to say is...
-Another thing about me is...
-I’m not sure how to explain this, but...
-```
-
----
-
-### Sản phẩm cuối Day 1
-
-Bạn phải có:
-
-* Một bản chép bài mẫu.
-* Một bài điền thông tin cá nhân.
-* Một file ghi âm 30–60 giây.
-* Danh sách 5 từ hoặc cụm từ bị vấp.
-
-Không cần đưa AI chấm bài hôm nay.
-
----
-
 ## DAY 2 — CONTROLLED IMITATION
 
 ### Mục tiêu
@@ -342,7 +149,7 @@ Sau đó mới mở lại tài liệu kiểm tra.
 
 ### Bước 2 — Đọc bài mẫu lần cuối
 
-Đọc Model Essay 1 thành tiếng một lần.
+Đọc lại phần **Model introduction** trong [`day-1-computer-science.md`](day-1-computer-science.md) thành tiếng một lần.
 
 Sau đó đóng bài mẫu lại.
 
@@ -1225,15 +1032,15 @@ Bạn chỉ cần chứng minh rằng mình có thể:
 
 ## 4. Thời khóa biểu tóm tắt
 
-| Ngày  | Writing            | Speaking    | Trọng tâm          |
-| ----- | ------------------ | ----------- | ------------------ |
-| Day 1 | Điền bài nhại      | 30–60 giây  | Đọc và bắt chước   |
-| Day 2 | 120–150 từ         | 60–90 giây  | Viết có kiểm soát  |
-| Day 3 | Reconstruction     | 90 giây     | Gọi lại từ trí nhớ |
-| Day 4 | 150–180 từ         | 2 phút      | Mở rộng mục tiêu   |
-| Day 5 | Rewrite 2 bài      | Đọc câu sửa | AI correction      |
-| Day 6 | Không viết bài mới | 2–3 phút    | Speaking intensive |
-| Day 7 | 150–180 từ         | 3 phút      | Weekly test        |
+| Ngày  | Writing                      | Speaking    | Trọng tâm          |
+| ----- | ---------------------------- | ----------- | ------------------ |
+| Day 1 | Bài giới thiệu có hướng dẫn | 30–60 giây  | Đọc và bắt chước   |
+| Day 2 | 120–150 từ                   | 60–90 giây  | Viết có kiểm soát  |
+| Day 3 | Reconstruction               | 90 giây     | Gọi lại từ trí nhớ |
+| Day 4 | 150–180 từ                   | 2 phút      | Mở rộng mục tiêu   |
+| Day 5 | Rewrite 2 bài                | Đọc câu sửa | AI correction      |
+| Day 6 | Không viết bài mới           | 2–3 phút    | Speaking intensive |
+| Day 7 | 150–180 từ                   | 3 phút      | Weekly test        |
 
 ---
 
@@ -1268,4 +1075,4 @@ Words or sentences I was not sure about:
 3.
 ```
 
-Bắt đầu với **Day 1**: đọc Model Essay 1, điền bài nhại và ghi âm phần giới thiệu 30–60 giây.
+Bắt đầu với [`day-1-computer-science.md`](day-1-computer-science.md): đọc bài mẫu, viết bài giới thiệu có hướng dẫn và ghi âm phần giới thiệu 30–60 giây.
