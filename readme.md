@@ -1,8 +1,17 @@
 # WEEK 1 — INTRODUCING YOURSELF
 
+## How to use these lessons
+
+This file contains the complete Week 1 learning plan.
+
+- Use [`day-1.md`](day-1.md) for the standalone general version of Day 1.
+- Use [`day-1-computer-science.md`](day-1-computer-science.md) instead if you want a longer Day 1 lesson focused on computer science.
+- Choose one Day 1 version; you do not need to complete both.
+- Continue with Days 2–7 in this file after completing your chosen Day 1 lesson.
+
 ## Mục tiêu tuần
 
-Sau tuần 1, m phải làm được 4 việc:
+Sau tuần 1, bạn phải làm được 4 việc:
 
 1. Viết bài giới thiệu bản thân dài **120–180 từ**.
 2. Nói về bản thân trong **2–3 phút** mà không cần đọc script.
@@ -15,11 +24,11 @@ Chủ đề tuần này:
 
 ---
 
-# 1. Bộ mẫu câu trọng tâm
+## 1. Bộ mẫu câu trọng tâm
 
 Tuần này chưa cần học quá nhiều. Chỉ tập trung vào 12 mẫu dưới đây.
 
-## Nhóm 1: Nói về hiện tại
+### Nhóm 1: Nói về hiện tại
 
 ```text
 At the moment, I am...
@@ -36,7 +45,7 @@ Ví dụ:
 
 ---
 
-## Nhóm 2: Nói về kinh nghiệm
+### Nhóm 2: Nói về kinh nghiệm
 
 ```text
 I have already...
@@ -55,7 +64,7 @@ Ví dụ:
 
 ---
 
-## Nhóm 3: Nói về tính cách
+### Nhóm 3: Nói về tính cách
 
 ```text
 I would describe myself as...
@@ -74,7 +83,7 @@ Ví dụ:
 
 ---
 
-## Nhóm 4: Nói về mục tiêu
+### Nhóm 4: Nói về mục tiêu
 
 ```text
 My current goal is to...
@@ -91,7 +100,7 @@ Ví dụ:
 
 ---
 
-# 2. Grammar trọng tâm tuần 1
+## 2. Grammar trọng tâm tuần 1
 
 Tuần này chỉ tập trung sửa những phần sau:
 
@@ -104,25 +113,25 @@ Tuần này chỉ tập trung sửa những phần sau:
 * Chủ ngữ số ít và động từ.
 * Đại từ `I`, `my`, `me`.
 
-Không cần học hết lý thuyết trước. M sẽ học grammar từ chính lỗi của mình.
+Không cần học hết lý thuyết trước. Bạn sẽ học grammar từ chính lỗi của mình.
 
 ---
 
-# DAY 1 — READ, COPY, AND IMITATE
+## DAY 1 — READ, COPY, AND IMITATE
 
-## Mục tiêu
+### Mục tiêu
 
 * Hiểu cấu trúc của một bài giới thiệu.
 * Làm quen với 12 mẫu câu.
 * Nói được 30–60 giây dựa trên bài mẫu.
 
-## Tổng thời gian: 75–90 phút
+### Tổng thời gian: 75–90 phút
 
 ---
 
-## Bước 1 — Đọc bài mẫu
+### Bước 1 — Đọc bài mẫu
 
-### Model Essay 1
+#### Model Essay 1
 
 **Topic: Introduce yourself**
 
@@ -136,11 +145,11 @@ Khoảng 150 từ.
 
 ---
 
-## Bước 2 — Đọc thành tiếng
+### Bước 2 — Đọc thành tiếng
 
 Đọc bài theo 3 vòng.
 
-### Vòng 1 — Slow reading
+#### Vòng 1 — Slow reading
 
 Đọc chậm, rõ từng từ.
 
@@ -148,7 +157,7 @@ Không cần giống giọng bản xứ.
 
 Mục tiêu là không nuốt từ.
 
-### Vòng 2 — Chunk reading
+#### Vòng 2 — Chunk reading
 
 Chia câu thành từng cụm:
 
@@ -162,7 +171,7 @@ and working on personal projects.
 
 Không đọc từng từ riêng biệt. Đọc theo cụm ý.
 
-### Vòng 3 — Natural reading
+#### Vòng 3 — Natural reading
 
 Đọc toàn bài tự nhiên hơn.
 
@@ -176,11 +185,11 @@ Không cần nghe lại quá nhiều. Chỉ kiểm tra:
 
 ---
 
-## Bước 3 — Phân tích cấu trúc bài
+### Bước 3 — Phân tích cấu trúc bài
 
 Bài có 3 đoạn.
 
-### Paragraph 1 — Current situation
+#### Paragraph 1 — Current situation
 
 ```text
 Who you are
@@ -189,7 +198,7 @@ Your previous experience
 What you still want to improve
 ```
 
-### Paragraph 2 — Personality
+#### Paragraph 2 — Personality
 
 ```text
 Your personality
@@ -198,7 +207,7 @@ Your weakness
 How your personality affects your life
 ```
 
-### Paragraph 3 — Goal
+#### Paragraph 3 — Goal
 
 ```text
 Your current goal
@@ -208,26 +217,26 @@ Your six-month target
 
 ---
 
-## Bước 4 — Chép và thay thông tin
+### Bước 4 — Chép và thay thông tin
 
 Chép bài mẫu một lần.
 
-Sau đó thay những phần sau bằng thông tin của m:
+Sau đó thay những phần sau bằng thông tin của bạn:
 
-| Bài mẫu                    | Thay bằng thông tin của m |
+| Bài mẫu                    | Thay bằng thông tin của bạn |
 | -------------------------- | ------------------------- |
-| Alex                       | Tên tiếng Anh m chọn      |
+| Alex                       | Tên tiếng Anh bạn chọn      |
 | learning programming       | Hoạt động hiện tại        |
 | improving my English       | Một hoạt động khác        |
 | personal projects          | Dự án hoặc công việc      |
-| curious and ambitious      | Hai tính từ mô tả m       |
+| curious and ambitious      | Hai tính từ mô tả bạn       |
 | learn new concepts quickly | Điểm mạnh                 |
 | learn too many things      | Điểm yếu                  |
 | confident in English       | Mục tiêu                  |
 
 ---
 
-## Bước 5 — Bài nhại có kiểm soát
+### Bước 5 — Bài nhại có kiểm soát
 
 Điền vào bài dưới đây.
 
@@ -257,7 +266,7 @@ Over the next six months, I want to ______.
 
 ---
 
-## Bước 6 — Speaking 30–60 giây
+### Bước 6 — Speaking 30–60 giây
 
 Chỉ nhìn keyword:
 
@@ -286,9 +295,9 @@ I’m not sure how to explain this, but...
 
 ---
 
-## Sản phẩm cuối Day 1
+### Sản phẩm cuối Day 1
 
-M phải có:
+Bạn phải có:
 
 * Một bản chép bài mẫu.
 * Một bài điền thông tin cá nhân.
@@ -299,23 +308,23 @@ Không cần đưa AI chấm bài hôm nay.
 
 ---
 
-# DAY 2 — CONTROLLED IMITATION
+## DAY 2 — CONTROLLED IMITATION
 
-## Mục tiêu
+### Mục tiêu
 
 * Dùng lại bộ khung hôm qua.
 * Viết được bài giống cấu trúc mẫu nhưng dùng thông tin thật.
 * Nói được 60–90 giây.
 
-## Tổng thời gian: 75 phút
+### Tổng thời gian: 75 phút
 
 ---
 
-## Bước 1 — Recall 5 phút
+### Bước 1 — Recall 5 phút
 
 Không nhìn tài liệu.
 
-Viết ra những mẫu câu m còn nhớ.
+Viết ra những mẫu câu bạn còn nhớ.
 
 Mục tiêu tối thiểu:
 
@@ -331,7 +340,7 @@ Sau đó mới mở lại tài liệu kiểm tra.
 
 ---
 
-## Bước 2 — Đọc bài mẫu lần cuối
+### Bước 2 — Đọc bài mẫu lần cuối
 
 Đọc Model Essay 1 thành tiếng một lần.
 
@@ -339,13 +348,13 @@ Sau đó đóng bài mẫu lại.
 
 ---
 
-## Bước 3 — Viết bài nhại hoàn chỉnh
+### Bước 3 — Viết bài nhại hoàn chỉnh
 
-### Topic
+#### Topic
 
 > Introduce yourself and describe your current life.
 
-### Yêu cầu
+#### Yêu cầu
 
 * 120–150 từ.
 * Ba đoạn.
@@ -354,7 +363,7 @@ Sau đó đóng bài mẫu lại.
 * Không nhờ AI viết.
 * Có thể tra từng từ riêng lẻ sau khi đã cố gắng tự diễn đạt.
 
-### Bộ khung
+#### Bộ khung
 
 ```text
 Paragraph 1:
@@ -374,18 +383,18 @@ Your six-month goal
 
 ---
 
-## Bước 4 — Tự kiểm tra trước AI
+### Bước 4 — Tự kiểm tra trước AI
 
 Kiểm tra lần lượt:
 
-### Content
+#### Content
 
 * Có giới thiệu mình là ai chưa?
 * Có nói mình đang làm gì chưa?
 * Có điểm mạnh và điểm yếu chưa?
 * Có mục tiêu tiếng Anh chưa?
 
-### Grammar
+#### Grammar
 
 * Mỗi câu có chủ ngữ không?
 * Sau `want` có `to` không?
@@ -393,7 +402,7 @@ Kiểm tra lần lượt:
 * Có viết `I am` thay vì chỉ `I` không?
 * Động từ có đúng với chủ ngữ không?
 
-### Clarity
+#### Clarity
 
 * Mỗi câu có truyền tải một ý chính không?
 * Có câu nào dài quá 30 từ không?
@@ -401,15 +410,15 @@ Kiểm tra lần lượt:
 
 ---
 
-## Bước 5 — Speaking ladder
+### Bước 5 — Speaking ladder
 
 Dùng cùng một bài nhưng nói ba lần.
 
-### Round 1 — Read
+#### Round 1 — Read
 
 Đọc bài đã viết.
 
-### Round 2 — Reduced notes
+#### Round 2 — Reduced notes
 
 Chỉ nhìn:
 
@@ -423,7 +432,7 @@ English
 six months
 ```
 
-### Round 3 — No notes
+#### Round 3 — No notes
 
 Không nhìn gì.
 
@@ -433,7 +442,7 @@ Không cần nói giống hệt bài viết.
 
 ---
 
-## Bước 6 — Trả lời câu hỏi
+### Bước 6 — Trả lời câu hỏi
 
 Trả lời thành tiếng, mỗi câu 2–4 câu trả lời.
 
@@ -447,7 +456,7 @@ Trả lời thành tiếng, mỗi câu 2–4 câu trả lời.
 
 ---
 
-## Sản phẩm cuối Day 2
+### Sản phẩm cuối Day 2
 
 * Bài viết 120–150 từ.
 * Bản tự kiểm tra.
@@ -458,19 +467,19 @@ Chưa cần AI sửa sâu. Chỉ được dùng AI để tra nghĩa hoặc kiể
 
 ---
 
-# DAY 3 — RECONSTRUCTION FROM MEMORY
+## DAY 3 — RECONSTRUCTION FROM MEMORY
 
-## Mục tiêu
+### Mục tiêu
 
 * Không phụ thuộc vào bài mẫu.
 * Gọi lại cấu trúc từ trí nhớ.
-* Bắt đầu biến cấu trúc thành của m.
+* Bắt đầu biến cấu trúc thành của bạn.
 
-## Tổng thời gian: 75–90 phút
+### Tổng thời gian: 75–90 phút
 
 ---
 
-## Bước 1 — Pattern recall
+### Bước 1 — Pattern recall
 
 Không nhìn bài.
 
@@ -490,7 +499,7 @@ Mẫu bị quên phải đọc thành tiếng 5 lần.
 
 ---
 
-## Bước 2 — Keyword reconstruction
+### Bước 2 — Keyword reconstruction
 
 Chỉ sử dụng keyword sau:
 
@@ -512,16 +521,16 @@ Không nhìn bài Day 1 hoặc Day 2.
 
 ---
 
-## Bước 3 — So sánh với bài cũ
+### Bước 3 — So sánh với bài cũ
 
 Sau khi viết xong, mở bài Day 2.
 
 Kiểm tra:
 
 * Bài mới có tự nhiên hơn không?
-* M còn sử dụng được bao nhiêu mẫu câu?
+* Bạn còn sử dụng được bao nhiêu mẫu câu?
 * Có ý nào bị mất?
-* Có câu nào m viết khác nhưng tốt hơn?
+* Có câu nào bạn viết khác nhưng tốt hơn?
 
 Không cố làm hai bài giống nhau.
 
@@ -529,11 +538,11 @@ Mục tiêu là dùng cùng một bộ khung để tạo ngôn ngữ mới.
 
 ---
 
-## Bước 4 — Paraphrase drill
+### Bước 4 — Paraphrase drill
 
 Viết lại mỗi câu theo cách đơn giản khác.
 
-### Example 1
+#### Example 1
 
 Original:
 
@@ -543,7 +552,7 @@ Alternative:
 
 > Right now, I am mainly focusing on backend development.
 
-### Example 2
+#### Example 2
 
 Original:
 
@@ -553,15 +562,15 @@ Alternative:
 
 > I sometimes find it difficult to focus on one thing.
 
-### Bài tập
+#### Bài tập
 
-Paraphrase 5 câu trong bài của m.
+Paraphrase 5 câu trong bài của bạn.
 
 Không cần dùng từ cao cấp. Chỉ cần đổi cấu trúc.
 
 ---
 
-## Bước 5 — Speaking reconstruction
+### Bước 5 — Speaking reconstruction
 
 Nói trong 90 giây chỉ dựa vào keyword.
 
@@ -577,7 +586,7 @@ goal
 
 ---
 
-## Bước 6 — Follow-up questions
+### Bước 6 — Follow-up questions
 
 Trả lời:
 
@@ -591,7 +600,7 @@ Trả lời:
 
 ---
 
-## Sản phẩm cuối Day 3
+### Sản phẩm cuối Day 3
 
 * Một bài reconstruction 120–150 từ.
 * Năm câu paraphrase.
@@ -600,21 +609,21 @@ Trả lời:
 
 ---
 
-# DAY 4 — EXPAND THE TOPIC
+## DAY 4 — EXPAND THE TOPIC
 
-## Mục tiêu
+### Mục tiêu
 
 * Không chỉ giới thiệu bản thân.
 * Biết nói sâu hơn về mục tiêu và khó khăn.
 * Viết 150–180 từ.
 
-## Chủ đề mới
+### Chủ đề mới
 
 > Who do you want to become in the next three years?
 
 ---
 
-## Model Essay 2
+### Model Essay 2
 
 > Over the next three years, I want to become a more capable and independent person. Professionally, I hope to become a strong backend developer who can build useful products instead of only following tutorials. I am also interested in content creation, so I would like to learn how to explain ideas clearly and create videos that people find valuable.
 >
@@ -624,7 +633,7 @@ Trả lời:
 
 ---
 
-## Bước 1 — Lấy mẫu câu mới
+### Bước 1 — Lấy mẫu câu mới
 
 ```text
 Over the next three years, I want to become...
@@ -641,9 +650,9 @@ Chỉ chọn 5 mẫu để sử dụng.
 
 ---
 
-## Bước 2 — Viết bài
+### Bước 2 — Viết bài
 
-### Yêu cầu
+#### Yêu cầu
 
 * 150–180 từ.
 * Ba đoạn.
@@ -652,7 +661,7 @@ Chỉ chọn 5 mẫu để sử dụng.
 * Có ít nhất một mục tiêu cá nhân.
 * Có vai trò của tiếng Anh.
 
-### Outline
+#### Outline
 
 ```text
 Paragraph 1:
@@ -667,21 +676,21 @@ How English supports the plan
 
 ---
 
-## Bước 3 — Speaking bridge
+### Bước 3 — Speaking bridge
 
 Không nói lại toàn bộ bài ngay.
 
 Đầu tiên trả lời riêng từng phần:
 
-### Part 1
+#### Part 1
 
 > What kind of work do you want to do?
 
-### Part 2
+#### Part 2
 
 > What kind of person do you want to become?
 
-### Part 3
+#### Part 3
 
 > How will English help you?
 
@@ -699,28 +708,28 @@ Finally,...
 
 ---
 
-## Sản phẩm cuối Day 4
+### Sản phẩm cuối Day 4
 
 * Bài viết 150–180 từ.
 * 10 mẫu câu đã sử dụng.
 * Bài nói khoảng 2 phút.
-* Ba câu m thấy khó diễn đạt nhất.
+* Ba câu bạn thấy khó diễn đạt nhất.
 
 ---
 
-# DAY 5 — AI CORRECTION AND ERROR MINING
+## DAY 5 — AI CORRECTION AND ERROR MINING
 
-## Mục tiêu
+### Mục tiêu
 
 * Học từ lỗi thật của bản thân.
 * Không để AI viết thay.
 * Tạo phiên bản sửa tối thiểu và phiên bản tự nhiên hơn.
 
-## Tổng thời gian: 90 phút
+### Tổng thời gian: 90 phút
 
 ---
 
-## Bước 1 — Chọn bài để chấm
+### Bước 1 — Chọn bài để chấm
 
 Đưa cho AI:
 
@@ -731,7 +740,7 @@ Không cần đưa cả Day 3 vì Day 3 chủ yếu kiểm tra recall.
 
 ---
 
-## Prompt chấm bài
+### Prompt chấm bài
 
 ```text
 You are my English output coach.
@@ -778,7 +787,7 @@ Here is my writing:
 
 ---
 
-## Bước 2 — Đọc feedback đúng cách
+### Bước 2 — Đọc feedback đúng cách
 
 Không chỉ đọc phiên bản hay hơn của AI.
 
@@ -793,7 +802,7 @@ Xử lý theo thứ tự:
 
 ---
 
-## Bước 3 — Error notebook
+### Bước 3 — Error notebook
 
 Ví dụ:
 
@@ -807,7 +816,7 @@ Chỉ lưu tối đa 5 lỗi.
 
 ---
 
-## Bước 4 — Rewrite
+### Bước 4 — Rewrite
 
 Viết lại bài bằng tay hoặc tự gõ lại.
 
@@ -815,17 +824,17 @@ Không copy-paste phiên bản AI.
 
 Có hai vòng:
 
-### Rewrite 1
+#### Rewrite 1
 
 Viết lại dựa trên bản sửa tối thiểu.
 
-### Rewrite 2
+#### Rewrite 2
 
 Đóng feedback và viết lại từ keyword.
 
 ---
 
-## Bước 5 — Pattern expansion
+### Bước 5 — Pattern expansion
 
 Giả sử AI lấy mẫu:
 
@@ -833,7 +842,7 @@ Giả sử AI lấy mẫu:
 One thing I struggle with is + V-ing
 ```
 
-M phải tạo ba câu:
+Bạn phải tạo ba câu:
 
 > One thing I struggle with is staying focused.
 
@@ -847,7 +856,7 @@ Tổng cộng: 15 câu mới.
 
 ---
 
-## Sản phẩm cuối Day 5
+### Sản phẩm cuối Day 5
 
 * Hai bài được AI chấm.
 * Một error notebook có 3–5 lỗi.
@@ -856,19 +865,19 @@ Tổng cộng: 15 câu mới.
 
 ---
 
-# DAY 6 — SPEAKING INTENSIVE
+## DAY 6 — SPEAKING INTENSIVE
 
-## Mục tiêu
+### Mục tiêu
 
 * Chuyển toàn bộ Writing thành Speaking.
 * Nói 2–3 phút.
 * Trả lời câu hỏi ngoài script.
 
-## Tổng thời gian: 75–90 phút
+### Tổng thời gian: 75–90 phút
 
 ---
 
-## Warm-up — 10 phút
+### Warm-up — 10 phút
 
 Đọc thành tiếng:
 
@@ -881,7 +890,7 @@ Không cần đọc nhiều.
 
 ---
 
-## Speaking Round 1 — Full script
+### Speaking Round 1 — Full script
 
 Đọc bài Day 2.
 
@@ -895,7 +904,7 @@ Mục tiêu:
 
 ---
 
-## Speaking Round 2 — Keyword only
+### Speaking Round 2 — Keyword only
 
 Keyword:
 
@@ -914,7 +923,7 @@ Nói 2 phút.
 
 ---
 
-## Speaking Round 3 — Different wording
+### Speaking Round 3 — Different wording
 
 Nói lại cùng nội dung nhưng không được dùng chính xác các câu đã viết.
 
@@ -940,11 +949,11 @@ Mục tiêu không phải thuộc lòng. Mục tiêu là **giữ được ý nh�
 
 ---
 
-## Speaking Round 4 — Random questions
+### Speaking Round 4 — Random questions
 
 Trả lời mỗi câu khoảng 20–40 giây.
 
-### Easy
+#### Easy
 
 1. What is your name?
 2. Where are you from?
@@ -952,7 +961,7 @@ Trả lời mỗi câu khoảng 20–40 giây.
 4. What are your main interests?
 5. What programming languages do you know?
 
-### Medium
+#### Medium
 
 6. What is one of your strongest qualities?
 7. What do you find difficult about learning?
@@ -960,7 +969,7 @@ Trả lời mỗi câu khoảng 20–40 giây.
 9. How do you usually learn new skills?
 10. What do you want to achieve this year?
 
-### Harder
+#### Harder
 
 11. What is something people often misunderstand about you?
 12. What habit would you like to change?
@@ -970,7 +979,7 @@ Trả lời mỗi câu khoảng 20–40 giây.
 
 ---
 
-## Cách xử lý khi bí
+### Cách xử lý khi bí
 
 Không im lặng hoàn toàn.
 
@@ -993,7 +1002,7 @@ Mục tiêu là **không bỏ cuộc giữa câu trả lời**.
 
 ---
 
-## AI speaking prompt
+### AI speaking prompt
 
 Có thể dùng Voice Mode với prompt:
 
@@ -1027,7 +1036,7 @@ Rules:
 
 ---
 
-## Sản phẩm cuối Day 6
+### Sản phẩm cuối Day 6
 
 * Một bài nói 2–3 phút.
 * 15 câu trả lời ngẫu nhiên.
@@ -1036,17 +1045,17 @@ Rules:
 
 ---
 
-# DAY 7 — WEEKLY TEST
+## DAY 7 — WEEKLY TEST
 
-## Mục tiêu
+### Mục tiêu
 
-Kiểm tra xem m có thật sự sử dụng được kiến thức hay chỉ nhận ra khi nhìn bài.
+Kiểm tra xem bạn có thật sự sử dụng được kiến thức hay chỉ nhận ra khi nhìn bài.
 
 Không đọc lại bài trước bài kiểm tra.
 
 ---
 
-# Part 1 — Pattern test
+### Part 1 — Pattern test
 
 Viết lại từ trí nhớ ít nhất 10 mẫu câu.
 
@@ -1070,13 +1079,13 @@ My current goal is to...
 
 ---
 
-# Part 2 — Writing test
+### Part 2 — Writing test
 
-## Đề bài
+#### Đề bài
 
 > Introduce yourself to someone you have just met in an international online community. Explain your current life, your personality, your interests, and why you are improving your English.
 
-## Yêu cầu
+#### Yêu cầu
 
 * 150–180 từ.
 * 25 phút.
@@ -1085,7 +1094,7 @@ My current goal is to...
 * Không Google Translate.
 * Có thể tra tối đa 5 từ sau khi hoàn thành bản nháp.
 
-## Cấu trúc gợi ý
+#### Cấu trúc gợi ý
 
 ```text
 Paragraph 1:
@@ -1100,9 +1109,9 @@ English problem, motivation and future goal
 
 ---
 
-# Part 3 — Speaking test
+### Part 3 — Speaking test
 
-## Chuẩn bị
+#### Chuẩn bị
 
 Viết tối đa 8 keyword.
 
@@ -1121,7 +1130,7 @@ English output
 six months
 ```
 
-## Bài nói
+#### Bài nói
 
 Nói trong 3 phút.
 
@@ -1139,7 +1148,7 @@ Khả năng tự sửa trong lúc nói cũng là một phần của fluency.
 
 ---
 
-# Part 4 — Follow-up test
+### Part 4 — Follow-up test
 
 Trả lời 5 câu không chuẩn bị trước:
 
@@ -1151,7 +1160,7 @@ Trả lời 5 câu không chuẩn bị trước:
 
 ---
 
-# Part 5 — AI evaluation
+### Part 5 — AI evaluation
 
 Đưa bài Writing cho AI bằng prompt Day 5.
 
@@ -1188,9 +1197,9 @@ Here is my transcript:
 
 ---
 
-# 3. Tiêu chuẩn hoàn thành tuần 1
+## 3. Tiêu chuẩn hoàn thành tuần 1
 
-M được coi là hoàn thành tuần 1 khi đạt ít nhất:
+Bạn được coi là hoàn thành tuần 1 khi đạt ít nhất:
 
 | Kỹ năng              |    Mức tối thiểu |
 | -------------------- | ---------------: |
@@ -1208,13 +1217,13 @@ Không cần accent hay.
 
 Không cần dùng từ cao cấp.
 
-M chỉ cần chứng minh rằng mình có thể:
+Bạn chỉ cần chứng minh rằng mình có thể:
 
 > **Tự tạo câu → kết nối câu → truyền đạt ý → tiếp tục nói dù mắc lỗi.**
 
 ---
 
-# 4. Thời khóa biểu tóm tắt
+## 4. Thời khóa biểu tóm tắt
 
 | Ngày  | Writing            | Speaking    | Trọng tâm          |
 | ----- | ------------------ | ----------- | ------------------ |
@@ -1228,7 +1237,7 @@ M chỉ cần chứng minh rằng mình có thể:
 
 ---
 
-# 5. Format gửi bài mỗi ngày
+## 5. Format gửi bài mỗi ngày
 
 ```text
 WEEK 1 — DAY [NUMBER]

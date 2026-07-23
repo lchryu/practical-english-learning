@@ -4,7 +4,7 @@
 
 By the end of this 75–90 minute lesson, you will be able to:
 
-- organize a personal introduction into three paragraphs;
+- organise a personal introduction into three paragraphs;
 - describe your computer science studies, interests, and experience;
 - discuss your personality, a strength, and a challenge;
 - explain how computer science supports your English learning; and
@@ -161,8 +161,8 @@ One thing I struggle with is + V-ing...
 ```text
 My current goal is to...
 I improve my English by + V-ing...
-I can already..., but...is still difficult for me.
-The main reason I want to...is that...
+I can already ..., but ... is still difficult for me.
+The main reason I want to ... is that ...
 Over the next six months, I want to...
 ```
 
@@ -427,6 +427,6 @@ Complete these sentences without looking back.
 
 ## Final reminder
 
-Your goal is not to speak perfectly or memorize the model. Your goal is to understand its structure, adapt it to your life, and express your own ideas.
+Your goal is not to speak perfectly or memorise the model. Your goal is to understand its structure, adapt it to your life, and express your own ideas.
 
 > If you can communicate your main ideas and continue after making a mistake, you are making progress.
