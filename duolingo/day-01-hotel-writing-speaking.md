@@ -1,27 +1,27 @@
 # Day 01 — At a Hotel
 
-Nguồn: bài Duolingo trong `Photos-1-001`  
-Trọng tâm: dùng lại từ và mẫu câu vừa học trong tình huống thật.
+Source: a recently completed Duolingo hotel lesson.  
+Focus: reuse newly learned words and sentence patterns in realistic situations.
 
 ## 1. Language bank
 
-### Từ cần dùng
+### Target vocabulary
 
-| English | Nghĩa / cách dùng |
+| Phrase | Simple definition |
 |---|---|
-| reserve a room | đặt trước một phòng |
-| guest | khách lưu trú |
-| room key | chìa khóa phòng |
-| floor | tầng |
-| laundry | quần áo cần giặt / việc giặt quần áo |
-| dirty | bẩn |
-| free | miễn phí |
-| cost extra | tốn thêm tiền / tính thêm phí |
-| breakfast | bữa sáng |
-| pool | hồ bơi |
-| small pet | thú cưng nhỏ |
+| reserve a room | arrange for a hotel room to be kept for you |
+| guest | a person staying at a hotel |
+| room key | the key used to enter a hotel room |
+| floor | one level of a building |
+| laundry | clothes that need washing, or the activity of washing them |
+| dirty | not clean |
+| free | costing no money |
+| cost extra | require an additional payment |
+| breakfast | the first meal of the day |
+| pool | a place built for swimming |
+| small pet | a small animal kept for companionship |
 
-### Mẫu câu cần bật ra được
+### Target sentences
 
 - I'd like to reserve a room.
 - Did you reserve a room online?
@@ -34,32 +34,32 @@ Trọng tâm: dùng lại từ và mẫu câu vừa học trong tình huống th
 
 ---
 
-# WRITING
+# Writing
 
-## Task 1 — Viết lại bằng tiếng Anh
+## Task 1 — Rewrite in English
 
-Không dịch từng chữ. Cố dùng đúng cụm trong **Language bank**.
+Do not translate word by word. Use phrases from the language bank.
 
-1. Tôi muốn đặt một phòng cho hai đêm.
-2. Bạn đã đặt phòng trên mạng phải không?
-3. Đây là chìa khóa phòng của bạn.
-4. Bữa sáng có tốn thêm tiền không?
-5. Khách không phải trả thêm tiền để dùng hồ bơi. Nó miễn phí.
-6. Tôi nghĩ tôi nghe thấy một con chó ở tầng của mình.
-7. Khách sạn cho phép khách mang theo thú cưng nhỏ.
-8. Chúng tôi cần giặt đồ vì quần áo của chúng tôi rất bẩn.
+1. You want to arrange a hotel room for two nights. Write a polite sentence.
+2. Ask whether someone reserved a room online.
+3. Give a guest their room key.
+4. Ask whether breakfast requires an additional payment.
+5. Explain that guests do not need to pay to use the pool.
+6. Say that you think you heard a dog on your floor.
+7. Explain that the hotel allows guests to bring small pets.
+8. Explain that you need to wash your clothes because they are very dirty.
 
-## Task 2 — Hoàn thành tin nhắn
+## Task 2 — Complete the message
 
-Điền mỗi chỗ trống bằng **một cụm phù hợp**. Có thể phải đổi dạng từ.
+Fill each blank with one suitable phrase. You may need to change the word form.
 
 > Hi! I called the hotel to ________ for this weekend. The receptionist said that breakfast ________, but the pool is completely ________. The hotel also lets ________ bring small pets. I hope there is a washing machine because I need to ________. My clothes are really ________!
 
-Từ gợi ý: `reserve a room` · `cost extra` · `free` · `guest` · `do laundry` · `dirty`
+Word bank: `reserve a room` · `cost extra` · `free` · `guest` · `do laundry` · `dirty`
 
-## Task 3 — Trả lời email của khách sạn
+## Task 3 — Reply to the hotel
 
-Viết **50–70 từ**.
+Write **50–70 words**.
 
 > Hello Anna,  
 > We have your online reservation. Before you arrive, please tell us:
@@ -68,28 +68,28 @@ Viết **50–70 từ**.
 > - Will you bring a pet?
 > - Do you have any questions about the hotel?
 
-Yêu cầu:
+Requirements:
 
-- Xác nhận số đêm.
-- Nói có/không với bữa sáng và hỏi giá.
-- Nói về thú cưng.
-- Hỏi một dịch vụ có miễn phí không.
-- Dùng ít nhất 4 cụm trong Language bank.
+- Confirm the number of nights.
+- Accept or decline breakfast and ask its price.
+- Mention whether you will bring a pet.
+- Ask whether one hotel service is free.
+- Use at least four phrases from the language bank.
 
 ## Task 4 — Mini story
 
-Viết **80–100 từ** về tình huống sau:
+Write **80–100 words** about this situation:
 
 > You arrive at your hotel. Your room is not clean, you hear a dog on your floor, and you are not sure whether breakfast and laundry are free.
 
-Bài phải có:
+Include:
 
-- Ít nhất 2 vấn đề.
-- Ít nhất 2 câu hỏi lịch sự.
-- Một yêu cầu nhân viên khách sạn giúp đỡ.
-- Các từ: `dirty`, `guest`, `cost extra`, `laundry`, `room key`.
+- At least two problems.
+- At least two polite questions.
+- One request for help from a hotel employee.
+- These words: `dirty`, `guest`, `cost extra`, `laundry`, and `room key`.
 
-Khung gợi ý nếu bí:
+Optional framework:
 
 > I reserved ...  
 > When I arrived, ...  
@@ -100,48 +100,48 @@ Khung gợi ý nếu bí:
 
 ---
 
-# SPEAKING
+# Speaking
 
-## Task 1 — Quick response
+## Task 1 — Quick responses
 
-Trả lời ngay, mỗi câu **5–10 giây**. Không viết trước.
+Answer immediately. Spend **5–10 seconds** on each response and do not write first.
 
 1. Receptionist: “Did you reserve a room online?”
 2. Receptionist: “Would you like to pay for breakfast?”
-3. Receptionist: “Here’s your room key.”
+3. Receptionist: “Here's your room key.”
 4. Guest: “I think I heard a dog on my floor.”
 5. Guest: “Do I have to pay to use the pool?”
 6. Receptionist: “Do you need our laundry service?”
 
-Mục tiêu: trả lời thành câu đầy đủ, không chỉ nói `yes` hoặc `no`.
+Goal: use a complete sentence instead of only `yes` or `no`.
 
 ## Task 2 — Hotel check-in role-play
 
-Đặt đồng hồ **90 giây**. Tự đóng cả hai vai hoặc nhờ AI đóng vai receptionist.
+Set a timer for **90 seconds**. Play both roles or ask an AI partner to be the receptionist.
 
-**Receptionist phải hỏi:**
+The receptionist must ask:
 
-- Tên của khách.
-- Khách có đặt online không.
-- Khách ở bao nhiêu đêm.
-- Khách có muốn mua bữa sáng không.
-- Khách có mang thú cưng không.
+- The guest's name.
+- Whether the guest reserved online.
+- How many nights the guest will stay.
+- Whether the guest wants breakfast.
+- Whether the guest is bringing a pet.
 
-**Guest phải:**
+The guest must:
 
-- Trả lời đủ các câu hỏi.
-- Hỏi bữa sáng có tốn thêm tiền không.
-- Hỏi hồ bơi có miễn phí không.
-- Hỏi về dịch vụ giặt đồ.
-- Cảm ơn khi nhận chìa khóa phòng.
+- Answer every question.
+- Ask whether breakfast costs extra.
+- Ask whether the pool is free.
+- Ask about laundry service.
+- Thank the receptionist for the room key.
 
-## Task 3 — Make a complaint politely
+## Task 3 — Make a polite complaint
 
-Nói **45–60 giây** với lễ tân. Tình huống:
+Speak to the receptionist for **45–60 seconds**:
 
-> Your clothes are dirty, but the laundry service costs extra. You also heard a dog on your floor last night. Ask for information and a solution politely.
+> Your clothes are dirty, but the laundry service costs extra. You also heard a dog on your floor last night. Politely ask for information and a solution.
 
-Dùng ít nhất 3 mẫu:
+Use at least three patterns:
 
 - Excuse me, ...
 - I think ...
@@ -152,45 +152,43 @@ Dùng ít nhất 3 mẫu:
 
 ## Task 4 — One-minute talk
 
-Nói **60–90 giây**:
+Speak for **60–90 seconds**:
 
 > Describe your ideal hotel stay.
 
-Gợi ý nội dung:
+Ideas:
 
-- Mày sẽ đặt phòng như thế nào?
-- Khách sạn ở đâu và mày ở bao lâu?
-- Dịch vụ nào phải miễn phí?
-- Mày có trả thêm cho bữa sáng không? Vì sao?
-- Khách có được mang thú cưng không?
-- Mày sẽ làm gì nếu phòng bẩn?
+- How would you reserve the room?
+- Where would the hotel be, and how long would you stay?
+- Which services should be free?
+- Would you pay extra for breakfast? Why?
+- Should guests be allowed to bring pets?
+- What would you do if your room were dirty?
 
-Thử dùng ít nhất 7 mục trong Language bank.
+Use at least seven items from the language bank.
 
 ---
 
-# Tự chấm
+# Self-assessment
 
-Sau mỗi bài, đánh dấu:
+- [ ] I used `reserve a room`, not `book room` without an article.
+- [ ] I distinguished `free` from `cost extra`.
+- [ ] I used `do laundry` or `do the laundry` naturally.
+- [ ] I connected ideas using `and`, `but`, or `because`.
+- [ ] I formed questions correctly: `Does it ...?`, `Did you ...?`, `Do guests ...?`
+- [ ] I did not pause for more than three seconds while speaking.
 
-- [ ] Tôi dùng đúng `reserve a room`, không dùng `book room` thiếu mạo từ.
-- [ ] Tôi phân biệt được `free` và `cost extra`.
-- [ ] Tôi dùng `do the laundry` hoặc `do laundry` tự nhiên.
-- [ ] Tôi nói được câu dài hơn một mệnh đề bằng `and`, `but`, `because`.
-- [ ] Tôi đặt câu hỏi đúng trợ động từ: `Does it ...?`, `Did you ...?`, `Do guests ...?`
-- [ ] Khi nói, tôi không dừng quá 3 giây.
+Speaking score, out of 10:
 
-Thang điểm mỗi bài Speaking (10 điểm):
-
-- Hoàn thành đủ ý: 4
-- Dùng đúng từ/cấu trúc mục tiêu: 3
-- Nói rõ và liền mạch: 2
-- Phát âm âm cuối dễ nghe (`guest`, `cost`, `reserved`): 1
+- Completed the task: 4
+- Used target vocabulary and grammar correctly: 3
+- Spoke clearly and continuously: 2
+- Pronounced final sounds clearly in `guest`, `cost`, and `reserved`: 1
 
 ---
 
 <details>
-<summary><strong>Đáp án và bài mẫu — chỉ mở sau khi làm</strong></summary>
+<summary><strong>Answers and models — open only after completing the tasks</strong></summary>
 
 ## Writing Task 1
 
@@ -207,17 +205,17 @@ Thang điểm mỗi bài Speaking (10 điểm):
 
 > Hi! I called the hotel to **reserve a room** for this weekend. The receptionist said that breakfast **costs extra**, but the pool is completely **free**. The hotel also lets **guests** bring small pets. I hope there is a washing machine because I need to **do laundry**. My clothes are really **dirty**!
 
-## Writing Task 3 — Bài mẫu
+## Writing Task 3 — Model
 
 > Hello,  
 > Thank you for confirming my reservation. I will stay for three nights. I would like breakfast, but does it cost extra? If so, how much is it? I won't bring a small pet. Could you also tell me if the pool is free for hotel guests? I look forward to my stay.  
 > Anna
 
-## Writing Task 4 — Bài mẫu
+## Writing Task 4 — Model
 
 > I reserved a room online for two nights. When I arrived, the receptionist gave me my room key. However, the bathroom was dirty, and I thought I heard a dog on my floor. I went downstairs and said, “Excuse me, could you please ask someone to clean my room?” I also asked, “Does breakfast cost extra, and is laundry free for every guest?” The receptionist apologized and offered me another room. Breakfast costs extra, but the hotel gave me free laundry service because of the problem.
 
-## Speaking Task 1 — Câu trả lời gợi ý
+## Speaking Task 1 — Suggested responses
 
 1. Yes, I did. My name is Anna Smith.
 2. Maybe. Does breakfast cost extra?
@@ -226,7 +224,7 @@ Thang điểm mỗi bài Speaking (10 điểm):
 5. No, guests don't have to pay extra. The pool is free.
 6. Yes, please. My clothes are dirty. Does the service cost extra?
 
-## Speaking Task 2 — Hội thoại mẫu
+## Speaking Task 2 — Model dialogue
 
 > **Receptionist:** Good afternoon. What's your name, please?  
 > **Guest:** My name is Anna Smith.  
@@ -243,32 +241,30 @@ Thang điểm mỗi bài Speaking (10 điểm):
 
 </details>
 
-## Cách luyện trong 20 phút
+## 20-minute practice routine
 
-1. Làm Writing Task 1–2 trong 5 phút.
-2. Làm Writing Task 3 hoặc 4 trong 7 phút.
-3. Thu âm Speaking Task 1 trong 2 phút.
-4. Thu âm một bài Speaking dài trong 3 phút.
-5. Nghe lại, tự chấm và nói lại lần hai trong 3 phút.
+1. Complete Writing Tasks 1–2 in five minutes.
+2. Complete Writing Task 3 or 4 in seven minutes.
+3. Record Speaking Task 1 for two minutes.
+4. Record one longer Speaking task for three minutes.
+5. Listen, score yourself, and repeat the answer for three minutes.
 
 ---
 
-## Session notes — Useful language discovered while practising
+## Session notes
 
 ### Subject–verb agreement
 
-In the present simple, remember the **-s** with a third-person singular subject:
+Use **-s** with a third-person singular subject in the present simple:
 
 - `Breakfast costs extra.`
 - `The hotel lets guests bring small pets.`
 - `The laundry service costs extra.`
 
-With plural subjects, do not add **-s**:
+Do not add **-s** with plural subjects:
 
 - `Optional services cost extra.`
 - `Guests bring small pets.`
-
-Quick comparison:
 
 | Subject | Correct verb |
 |---|---|
@@ -283,39 +279,37 @@ Quick comparison:
 
 After `does`, use the base form `cost`, not `costs`.
 
-### Talking about laundry options
+### Laundry options
 
 - `Basic laundry is free, but optional services cost extra.`
 - `Dry cleaning costs extra.`
 - `Scented detergent may cost extra.`
 - `Could I have some fabric softener, please?`
 
-Vocabulary:
-
-| English | Vietnamese |
+| Phrase | Simple definition |
 |---|---|
-| scented detergent | nước/bột giặt có hương thơm |
-| fabric softener | nước xả vải |
-| fragrance | hương thơm |
-| smell nice / smell good | có mùi thơm |
-| dry cleaning | giặt khô |
-| optional service | dịch vụ tùy chọn |
+| scented detergent | detergent with an added pleasant smell |
+| fabric softener | a product that makes washed clothes feel softer |
+| fragrance | a pleasant smell |
+| smell nice / smell good | have a pleasant smell |
+| dry cleaning | cleaning clothes with a solvent instead of water |
+| optional service | an additional service that is not required |
 
-`Smell` can describe either a pleasant or unpleasant odor. When the intended meaning is **thơm**, prefer `smell nice`, `smell good`, `scented`, or `fragrance` depending on the sentence.
+`Smell` may describe either a pleasant or unpleasant odor. For a pleasant meaning, use `smell nice`, `smell good`, `scented`, or `fragrance`, depending on the sentence.
 
-### Do not invent information from a text
+### Separate facts from assumptions
 
 If a passage says:
 
 > I hope there is a washing machine because I need to do laundry.
 
-we know that the guest wants to wash their clothes. We **do not** know whether laundry is free. A careful answer is:
+we know the guest wants to wash their clothes. We do **not** know whether laundry is free. A careful answer is:
 
-> `I'm not sure because the text doesn't say whether the laundry service costs extra.`
+> I'm not sure because the text doesn't say whether the laundry service costs extra.
 
-This distinction is valuable for both everyday comprehension and future IELTS Reading practice: separate explicit information from assumptions.
+This distinction is valuable for everyday comprehension and future IELTS Reading practice.
 
-### Polished sentences from the live practice
+### Polished sentences from live practice
 
 - `I'm not sure because the guest only says that they hope there is a washing machine.`
 - `I think it might cost extra for some optional services—maybe scented detergent.`

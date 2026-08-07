@@ -1,91 +1,89 @@
 # English Learner Profile
 
-> Đây là hồ sơ học tập sống. Cập nhật sau mỗi buổi luyện để bài sau bám đúng trình độ, lỗi thường gặp và mục tiêu của người học.
+> A living learning record. Update it after every session so future practice reflects the learner's level, recurring errors, progress, and goals.
 
-## 1. Mục tiêu dài hạn
+## 1. Long-term goals
 
-- Mục tiêu chính: **IELTS 6.5**.
-- Kỹ năng ưu tiên hiện tại: **Writing + Speaking**.
-- Định hướng: nói và viết trôi chảy bằng những từ tiếng Anh đơn giản trước, sau đó mới nâng dần độ phức tạp.
-- Nguồn học hằng ngày hiện tại: ảnh chụp các bài vừa học trên **Duolingo**.
-- Mong muốn tương lai gần: kết hợp nội dung Duolingo với lộ trình IELTS.
-- Nhịp học mong muốn: mỗi ngày vài bài ngắn, duy trì liên tục.
+- Main target: **IELTS 6.5**.
+- Current priorities: **Writing and Speaking**.
+- Immediate objective: become fluent and accurate with simple English before increasing complexity.
+- Current daily input: recently completed **Duolingo** lessons.
+- Near-future direction: turn Duolingo material into an IELTS pathway.
+- Preferred rhythm: several short exercises every day with consistent progress tracking.
 
-## 2. Cách học phù hợp
+## 2. Preferred learning method
 
-- Lấy từ vựng và cấu trúc vừa học trên Duolingo rồi biến thành bài Writing và Speaking thực tế.
-- Học theo một chủ đề thống nhất, không luyện các câu dịch rời rạc quá lâu.
-- Đi từ dễ đến khó:
-  1. Dịch câu ngắn.
-  2. Điền và nối câu thành đoạn.
-  3. Viết tin nhắn/email/đoạn văn.
-  4. Phản xạ nói nhanh.
-  5. Role-play.
-  6. Nói liên tục 60–90 giây.
-- Làm từng câu; trợ giảng sửa ngay, giải thích ngắn và cho phiên bản tự nhiên hơn.
-- Ưu tiên cách diễn đạt đơn giản, đúng và bật ra nhanh.
-- Không ép dùng từ học thuật khi từ đơn giản đã truyền đạt đúng ý.
-- Đáp án mẫu nên được đặt ở cuối hoặc ẩn đi để người học không nhìn trước.
-- Giọng tương tác: thân thiện, trực tiếp, vui vẻ; không giảng quá dài.
-- Ngôn ngữ tương tác mặc định: **English**.
-- Khi người học viết tiếng Anh chưa đúng, luôn sửa câu của người học **trước**, sau đó mới trả lời nội dung hoặc tiếp tục bài.
-- Có thể dùng tiếng Việt nếu người học chủ động yêu cầu giải thích bằng tiếng Việt.
+- Transform recently learned Duolingo vocabulary and structures into practical Writing and Speaking tasks.
+- Build each session around one coherent topic instead of isolated translation sentences.
+- Increase difficulty gradually:
+  1. Translate short sentences.
+  2. Complete and connect sentences.
+  3. Write messages, emails, and paragraphs.
+  4. Give quick spoken responses.
+  5. Perform role-plays.
+  6. Speak continuously for 60–90 seconds.
+- Work one item at a time and receive immediate, concise correction plus a more natural version when useful.
+- Prefer simple, correct language that can be produced quickly.
+- Do not force academic vocabulary when simple words communicate the idea accurately.
+- Keep model answers at the end or hidden until the task is complete.
+- Use a friendly, direct, playful coaching style without long lectures.
+- Default interaction language: **English**.
+- When the learner writes incorrect English, correct it **before** answering the message or continuing the exercise.
+- Use Vietnamese only when the learner explicitly requests a Vietnamese explanation.
 
-## 3. Nguyên tắc phản hồi
+## 3. Feedback protocol
 
-Sau mỗi câu trả lời:
+After each learner response:
 
-1. Nếu người học viết bằng tiếng Anh, sửa câu đó trước.
-2. Xác nhận phần làm đúng.
-3. Chỉ rõ lỗi sai hoặc chỗ khác nghĩa.
-4. Đưa câu sửa hoàn chỉnh.
-5. Giải thích tối đa 1–3 điểm quan trọng.
-6. Nếu hữu ích, đưa thêm một cách nói tự nhiên hơn.
-7. Trả lời nội dung hoặc tiếp tục ngay bằng câu kế tiếp bằng tiếng Anh.
+1. Correct the learner's English first.
+2. Confirm what was correct.
+3. Identify any grammar or meaning problem.
+4. Give the complete corrected sentence.
+5. Explain no more than one to three important points.
+6. Offer a more natural version when useful.
+7. Answer the message or immediately continue with the next English task.
 
-Không chỉ sửa ngữ pháp; cần theo dõi cả:
+Track more than grammar:
 
-- Câu có truyền đạt đúng nghĩa đề bài không.
-- Collocation và giới từ.
-- Sự nhất quán chủ ngữ/đại từ sở hữu.
-- Khả năng tạo câu không cần gợi ý.
-- Độ dài phản xạ và mức độ trôi chảy khi nói.
-- Khả năng dùng lại lỗi đã được sửa ở những bài sau.
+- Meaning accuracy.
+- Collocations and prepositions.
+- Subject and possessive-pronoun agreement.
+- Ability to produce a sentence without prompts.
+- Speaking response length and fluency.
+- Whether previously corrected errors return.
 
-## 4. Chỉ số cần cập nhật liên tục
+## 4. Metrics
 
-| Chỉ số | Cách ghi |
+| Metric | Measurement |
 |---|---|
-| Writing accuracy | Số câu đúng hoặc gần đúng / tổng số câu |
-| Meaning accuracy | Có giữ đúng nghĩa đề bài không |
-| Grammar errors | Đếm theo nhóm lỗi, không chỉ đếm tổng |
-| Vocabulary reuse | Số từ/cụm mục tiêu dùng đúng |
-| Speaking response time | Ước lượng thời gian bắt đầu trả lời |
-| Speaking duration | Số giây nói liên tục |
-| Fluency | Số lần dừng quá 3 giây / tự sửa quá nhiều |
-| Recurring errors | Lỗi xuất hiện lại sau khi đã được sửa |
-| Mastered items | Cấu trúc dùng đúng nhiều lần trong ngữ cảnh mới |
+| Writing accuracy | Correct or nearly correct answers / total answers |
+| Meaning accuracy | Whether the response preserves the intended meaning |
+| Grammar errors | Count by error category, not only total errors |
+| Vocabulary reuse | Number of target words and phrases used correctly |
+| Speaking response time | Time before the learner begins answering |
+| Speaking duration | Seconds of continuous speech |
+| Fluency | Pauses longer than three seconds and excessive self-correction |
+| Recurring errors | Errors repeated after correction |
+| Mastered items | Structures used correctly several times in new contexts |
 
-Quy ước trạng thái:
+Status labels:
 
-- **New**: mới gặp.
-- **Learning**: hiểu nhưng vẫn sai hoặc cần gợi ý.
-- **Stable**: dùng đúng ít nhất 3 lần ở các ngữ cảnh khác nhau.
-- **Review**: từng ổn nhưng gần đây sai lại.
+- **New:** recently introduced.
+- **Learning:** understood but still incorrect or prompt-dependent.
+- **Stable:** used correctly at least three times in different contexts.
+- **Review:** previously stable but recently incorrect again.
 
-## 5. Baseline hiện tại
+## 5. Current baseline
 
-### Điểm mạnh quan sát được
+### Observed strengths
 
-- Tạo được câu hiện tại đơn và quá khứ đơn cơ bản.
-- Dùng đúng một số cụm vừa học: `reserve a room`, `pay extra`, `use the pool`, `do laundry`, `dirty`.
-- Tạo được câu ghép với `because`.
-- Hiểu câu hỏi quá khứ với `Did`.
-- Có thể truyền đạt ý chính bằng từ đơn giản.
+- Can form basic present-simple and past-simple sentences.
+- Correctly uses several learned phrases: `reserve a room`, `pay extra`, `use the pool`, `do laundry`, and `dirty`.
+- Can connect ideas with `because`.
+- Understands past-tense questions with `Did`.
+- Can communicate the main idea using simple words.
 
-### Nội dung đang học
-
-Chủ đề: **At a Hotel**
+### Current topic: At a Hotel
 
 - `reserve a room`
 - `guest`
@@ -99,135 +97,164 @@ Chủ đề: **At a Hotel**
 - `pool`
 - `small pet`
 
-### Điểm cần ưu tiên
+### Priority language problems
 
-1. Câu hỏi với động từ thường:
-   - Sai: `Is breakfast cost extra?`
-   - Đúng: `Does breakfast cost extra?`
-2. Giới từ chỉ tầng:
-   - Sai: `in my floor`
-   - Đúng: `on my floor`
-3. Chủ ngữ và từ sở hữu phải khớp:
-   - `we → our`, `I → my`.
-4. Ngôi thứ ba số ít:
-   - `The hotel lets ...`, không phải `The hotel let ...` khi nói sự thật hiện tại.
-5. Danh từ số ít/số nhiều và mạo từ:
-   - `a pet` hoặc `pets`, không dùng `a pets`.
-   - Khi nói chung: `guests`, không nhất thiết dùng `the guests`.
-6. Chọn động từ đúng nghĩa:
-   - `bring a pet` = mang thú cưng theo.
-   - `carry a pet` = bế/cầm thú cưng.
-7. Phân biệt câu hỏi và câu trần thuật khi dịch đúng nghĩa:
-   - `Is this your room key?` khác `Here's your room key.`
+1. Questions with ordinary verbs:
+   - Incorrect: `Is breakfast cost extra?`
+   - Correct: `Does breakfast cost extra?`
+2. Floor prepositions:
+   - Incorrect: `in my floor`
+   - Correct: `on my floor`
+3. Subject–possessive agreement:
+   - `we → our`; `I → my`.
+4. Third-person singular verbs:
+   - `The hotel lets ...`, not `The hotel let ...` for a present fact.
+5. Articles and plurals:
+   - `a pet` or `pets`, not `a pets`.
+   - Use `guests` when speaking about guests generally.
+6. Verb choice:
+   - `bring a pet` means to take the pet with you.
+   - `carry a pet` means to hold or physically carry it.
+7. Preserving sentence type and meaning:
+   - `Is this your room key?` differs from `Here's your room key.`
 
 ## 6. Progress log
 
 ### 2026-08-08 — Duolingo Day 01: At a Hotel
 
-Nguồn bài: 11 ảnh trong `duolingo/Photos-1-001`, IMG_2660–2670.  
-Bộ bài đã tạo: `duolingo/day-01-hotel-writing-speaking.md`.
+Source: 11 Duolingo screenshots, IMG_2660–2670. The raw images were removed after extraction.  
+Lesson: `duolingo/day-01-hotel-writing-speaking.md`.
 
-Phần đã làm: Writing Task 1, 8 câu.
+#### Writing Task 1
 
-| Câu | Kết quả | Ghi chú |
+Completed all eight sentences.
+
+| Item | Result | Note |
 |---|---|---|
-| 1 | Đúng | `I want to reserve a room for two nights.`; có thể lịch sự hơn với `I'd like to ...` |
-| 2 | Đúng | Dùng đúng `Did + subject + base verb` |
-| 3 | Khác nghĩa | Viết câu hỏi thay vì câu đưa chìa khóa; học `Here's your room key.` |
-| 4 | Sai trợ động từ | Cần `Does breakfast cost extra?` |
-| 5 | Đúng | `don't need to pay extra`; khi nói chung nên dùng `Guests` |
-| 6 | Sai giới từ | `on my floor`, không phải `in my floor` |
-| 7 | Nhiều lỗi nhỏ | Cần `The hotel lets guests bring small pets.` |
-| 8 | Gần đúng | `we` cần đi với `our`; thiếu `very` nhưng ý cơ bản đúng |
+| 1 | Correct | `I want to reserve a room for two nights.`; `I'd like to ...` is more polite |
+| 2 | Correct | Correctly used `Did + subject + base verb` |
+| 3 | Meaning changed | Asked a question instead of presenting the key; target: `Here's your room key.` |
+| 4 | Auxiliary error | Target: `Does breakfast cost extra?` |
+| 5 | Correct | Correctly used `don't need to pay extra`; general noun: `Guests` |
+| 6 | Preposition error | Use `on my floor`, not `in my floor` |
+| 7 | Several small errors | Target: `The hotel lets guests bring small pets.` |
+| 8 | Nearly correct | `we` requires `our`; the main idea was correct |
 
-Kết quả Writing Task 1: **6.5/8** theo cách chấm của buổi học.  
-Writing Task 3 trở đi: chưa làm.
+Result: **6.5/8**.
 
-#### Continuation — Writing Task 2 and follow-up practice
+#### Writing Task 2 and follow-up practice
 
-- Writing Task 2: **5/6** blanks correct on the first attempt.
-- Correctly recalled: `reserve a room`, `free`, `guests`, `do laundry`, `dirty`.
-- Repeated error: wrote `breakfast cost extra` instead of `breakfast costs extra`.
-- The same error appeared again in the complete sentence `Yes, the hotel breakfast cost extra.`
-- After contrast practice, correctly used the plural form in the idea `optional services`; the completed sentence is `Basic laundry is free, but optional services cost extra.`
-- Demonstrated good reading discipline by noticing that the source paragraph did not say whether laundry was free. The learner challenged an unsupported assumption instead of guessing.
-- Expanded vocabulary beyond the original Duolingo material: `optional services`, `scented detergent`, `fabric softener`, `fragrance`, `smell nice`, and `dry cleaning`.
-- New interaction preference recorded: correct the learner's English first, then answer in English.
+- Result: **5/6** blanks correct on the first attempt.
+- Correctly recalled: `reserve a room`, `free`, `guests`, `do laundry`, and `dirty`.
+- Repeated `breakfast cost extra` instead of `breakfast costs extra`.
+- Repeated the same error in `Yes, the hotel breakfast cost extra.`
+- Correctly handled the plural contrast in `Optional services cost extra.`
+- Correctly noticed that the passage did not state whether laundry was free and rejected the unsupported assumption.
+- Added vocabulary: `optional services`, `scented detergent`, `fabric softener`, `fragrance`, `smell nice`, and `dry cleaning`.
 
-Updated Task 2 result: **5/6**.  
-Speaking baseline: still not collected.
+Writing Tasks 3–4: not completed.  
+Speaking baseline: not collected.
 
-### Error counts — baseline
+### End-of-session assessment
 
-| Nhóm lỗi | Số lần quan sát | Trạng thái |
+**Saved at:** 2026-08-08 05:27:07 (UTC+07:00, Asia/Bangkok)  
+**Duration:** not measured reliably; track session start and end times in future.
+
+| Area | Evidence | Assessment |
+|---|---|---|
+| Writing Task 1 | 6.5/8 | Good basic construction with several small grammar and meaning errors |
+| Writing Task 2 | 5/6 | Strong target-vocabulary recall |
+| Combined guided accuracy | 11.5/14, approximately 82% | Useful baseline, not an IELTS score |
+| Vocabulary recall | 5/6 target phrases in Task 2 | Good |
+| Reading accuracy | Rejected an unsupported claim about free laundry | Strong attention to meaning |
+| Speaking fluency | No timed or recorded sample | Not assessed |
+| IELTS band | Insufficient evidence | Do not estimate yet |
+
+#### Candid coach feedback
+
+**Is the learner doing well?**  
+Yes. This was a productive first tracked session. The learner did more than recognize Duolingo words: they retrieved them and used them in new sentences. Completing 14 guided items at approximately 82% accuracy is a solid starting point. Noticing that the text never said laundry was free showed careful comprehension rather than mechanical guessing.
+
+**Is the pace too slow?**  
+No. The learning pace is appropriate. Basic fluency grows through repeated, accurate retrieval, so briefly slowing down to correct `cost/costs`, `does + cost`, and `on my floor` is valuable. The session became less efficient when time was spent designing files and managing GitHub. Future sessions should devote 70–80% of the available time to active English production.
+
+**Is IELTS 6.5 realistic?**  
+It is a reasonable long-term goal, but the evidence is insufficient to predict a date or current band. These exercises were below IELTS task complexity and sampled only short-form Writing. Band 6.5 requires consistent work across Listening, Reading, Writing, and Speaking. Building accuracy and fluency with simple English first is a sound strategy.
+
+**Achievements:**
+
+- Established a measurable baseline.
+- Recalled most hotel vocabulary without copying answers.
+- Produced basic questions, statements, and a `because` clause.
+- Identified recurring grammar patterns for targeted practice.
+- Expanded a simple idea with practical new vocabulary.
+- Built a repeatable workflow: Duolingo input → Writing retrieval → Speaking reuse → correction → progress tracking.
+
+**Current constraints:**
+
+- Third-person singular **-s** is understood but not automatic.
+- Responses remain mostly single sentences; connected fluency is untested.
+- No timed or recorded Speaking evidence exists.
+- No Listening or Reading baseline exists.
+
+**Coach verdict:**  
+Good start, strong learning attitude, and an appropriate pace. The learner is not slow. The process now needs more active speaking time and less setup time. The immediate target is consistency with simple grammar, not complexity. Maintaining this routine and expanding it across all four skills will support the long-term IELTS 6.5 goal.
+
+### Error counts
+
+| Error category | Observed count | Status |
 |---|---:|---|
-| Trợ động từ trong câu hỏi | 1 | Learning |
-| Giới từ `on/in` | 1 | Learning |
-| Chủ ngữ – sở hữu | 1 | Learning |
-| Ngôi thứ ba số ít | 3 | Learning — high priority |
-| Số nhiều / mạo từ | 2 trong cùng một câu | Learning |
-| Chọn động từ theo ngữ cảnh | 1 | Learning |
-| Giữ đúng loại câu/ý nghĩa | 1 | Learning |
+| Auxiliary in questions | 1 | Learning |
+| `on/in` preposition | 1 | Learning |
+| Subject–possessive agreement | 1 | Learning |
+| Third-person singular | 3 | Learning — high priority |
+| Plural/article errors | 2 within one sentence | Learning |
+| Contextual verb choice | 1 | Learning |
+| Preserving sentence type/meaning | 1 | Learning |
 
-Update: the third-person singular error occurred **three times across two exercises** (`breakfast cost`, repeated once in a full answer, plus the earlier `hotel let`). This is now the highest-priority grammar pattern for retrieval practice.
+Third-person singular errors occurred three times across two exercises. Do not mark this structure Stable until it is used correctly at least three times in new contexts without reminders.
 
-### Cấu trúc đã thể hiện tốt
+### Demonstrated structures
 
-| Cấu trúc | Bằng chứng | Trạng thái |
+| Structure | Evidence | Status |
 |---|---|---|
-| `reserve a room` | Dùng đúng ở câu 1 và 2 | Learning |
-| `Did + subject + verb?` | Dùng đúng ở câu 2 | Learning |
-| `pay extra to + verb` | Dùng đúng ở câu 5 | Learning |
-| `because + clause` | Dùng đúng ở câu 8 | Learning |
-| `do laundry` | Dùng đúng ở câu 8 | Learning |
-| Distinguishing explicit information from assumptions | Correctly noticed that laundry pricing was not stated | Learning |
-| Singular vs. plural verb contrast | Understands `services cost`; still misses `breakfast costs` | Learning |
+| `reserve a room` | Correct in Items 1 and 2 | Learning |
+| `Did + subject + verb?` | Correct in Item 2 | Learning |
+| `pay extra to + verb` | Correct in Item 5 | Learning |
+| `because + clause` | Correct in Item 8 | Learning |
+| `do laundry` | Correct in Item 8 | Learning |
+| Explicit information vs. assumptions | Correctly noticed laundry pricing was unstated | Learning |
+| Singular/plural verb contrast | Understands `services cost`; still misses `breakfast costs` | Learning |
 
-### Next-session retrieval targets
+## 7. Next-session plan
 
-Test these without showing the rule first:
+1. Begin with five retrieval questions on `cost/costs`, `let/lets`, `does + base verb`, `on my floor`, and `we/our`.
+2. Complete Writing Task 3: a 50–70 word hotel email.
+3. Collect the first Speaking baseline with six quick responses and one 45–60 second answer.
+4. Record response time, speaking duration, long pauses, and recurring grammar errors.
+5. Use a **70/20/10 session split**: 70% English production, 20% correction and repetition, 10% progress tracking.
+6. Reuse new phrases on Day 1, Day 3, and Day 7.
 
-1. `Breakfast costs ...` vs. `Optional services cost ...`
-2. `The hotel lets ...` vs. `Hotels let ...`
-3. `Does breakfast cost ...?` vs. the statement `Breakfast costs ...`
-4. One question using `on my floor`.
-5. One sentence maintaining `we → our` or `they → their`.
+## 8. Path to IELTS 6.5
 
-Do not mark third-person singular as Stable until the learner uses it correctly at least three times in new contexts without being reminded.
+- **Stage 1 — Simple fluency:** produce simple, correct sentences quickly from Duolingo material.
+- **Stage 2 — Connected answers:** connect 3–6 sentences with reasons and examples.
+- **Stage 3 — IELTS foundation:** introduce Speaking Part 1, paragraph structure, paraphrasing, and linking words.
+- **Stage 4 — IELTS practice:** train Speaking Parts 1–3 and Writing Tasks 1–2 using band criteria.
+- **Stage 5 — Band 6.5 consistency:** correct recurring errors, work under time limits, and take regular mock tests.
 
-## 7. Kế hoạch ngắn hạn
+IELTS 6.5 requires evidence from all four skills. The profile currently contains only a small Writing baseline, so no current-band estimate is justified.
 
-Các buổi tiếp theo nên:
+## 9. Update rules
 
-1. Ôn lại lỗi cũ bằng ngữ cảnh mới, không đưa y nguyên câu cũ.
-2. Hoàn thành Writing Task 3–4 của Day 01.
-3. Bắt đầu thu âm hoặc mô phỏng Speaking để có baseline về thời gian phản xạ và độ dài nói.
-4. Sau vài chủ đề Duolingo, bắt đầu chuyển đổi bài sang format IELTS Speaking Part 1.
-5. Khi câu đơn đã ổn, luyện mở rộng câu bằng `because`, `but`, `so`, ví dụ và lý do.
-6. Sau khi có đủ dữ liệu Writing, đánh giá gần đúng band hiện tại theo từng tiêu chí IELTS; không đoán band chỉ từ vài câu dịch.
+After each session, add:
 
-## 8. Hướng tới IELTS 6.5
+- Date, time, and topic.
+- Completed exercises.
+- Score or accuracy rate.
+- Representative responses.
+- New and recurring errors.
+- Status changes: New → Learning → Stable or Review.
+- A specific target for the next session.
 
-Lộ trình dự kiến:
-
-- **Giai đoạn 1 — Simple fluency:** bật ra câu đơn giản, đúng và nhanh từ nội dung Duolingo.
-- **Giai đoạn 2 — Connected answers:** nối 3–6 câu thành câu trả lời có lý do và ví dụ.
-- **Giai đoạn 3 — IELTS foundation:** Speaking Part 1, đoạn văn cơ bản, paraphrase và từ nối.
-- **Giai đoạn 4 — IELTS practice:** luyện đủ Speaking Parts 1–3 và Writing Tasks 1–2, chấm theo tiêu chí band.
-- **Giai đoạn 5 — Band 6.5 consistency:** sửa lỗi lặp lại, luyện có thời gian và làm mock test định kỳ.
-
-Lưu ý: mục tiêu 6.5 cần dữ liệu từ cả Listening, Reading, Writing và Speaking. Hồ sơ hiện mới có baseline nhỏ về Writing; chưa đủ dữ liệu để ước lượng band hiện tại.
-
-## 9. Quy tắc cập nhật file
-
-Sau mỗi buổi học, bổ sung:
-
-- Ngày và chủ đề.
-- Bài đã hoàn thành.
-- Điểm hoặc tỷ lệ đúng.
-- Câu trả lời tiêu biểu.
-- Lỗi mới và lỗi lặp lại.
-- Cấu trúc chuyển từ New → Learning → Stable hoặc Review.
-- Mục tiêu cụ thể cho buổi tiếp theo.
-
-Không xóa lịch sử cũ. Nếu nhận định trước đây không còn đúng, ghi thêm bằng chứng mới và cập nhật trạng thái.
+Never erase old history. If an earlier assessment becomes outdated, add new evidence and update its status.
