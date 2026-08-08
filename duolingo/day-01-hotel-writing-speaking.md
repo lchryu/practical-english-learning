@@ -314,3 +314,106 @@ This distinction is valuable for everyday comprehension and future IELTS Reading
 - `I'm not sure because the guest only says that they hope there is a washing machine.`
 - `I think it might cost extra for some optional services—maybe scented detergent.`
 - `Basic laundry is free, but optional services such as dry cleaning cost extra.`
+
+### Writing Task 3 — Learner model for repeated practice
+
+> Hello,  
+> I reserved a room for two people, and we will stay for two nights. I understand that breakfast costs extra. Could you please tell me how much it costs? I will also bring a small cat, so please let me know if there is a pet fee. Does the hotel have a laundry room, and is it free for guests? Finally, I would like a room with an ocean view.  
+> Thank you for your help.
+
+Practice loop:
+
+1. Read the model once.
+2. Hide it and rewrite the email from memory.
+3. Preserve the meaning; exact wording is not required.
+4. Correct only the weak patterns and rewrite again.
+5. Stop when the email is accurate, natural, and independently produced.
+
+Mastery checklist:
+
+- [ ] `breakfast costs extra`
+- [ ] `pay for it`
+- [ ] `services ... do they ...?`
+- [ ] `a room with an ocean view`
+- [ ] At least one polite request
+- [ ] At least two connected ideas
+- [ ] No major grammar or meaning errors
+
+### Practice record — 2026-08-09
+
+The learner completed multiple independent rewrites. The score improved from approximately **7/10 to 8.5/10**.
+
+Now reliable or improving:
+
+- Reservation details and length of stay.
+- `How much does it cost?`
+- `a room with an ocean view`
+- Paragraph organisation.
+- A professional closing.
+
+Still requires retrieval practice:
+
+- `breakfast costs extra`
+- `a laundry room`
+- `Does the hotel accept pets?`
+- `Does it charge a pet fee?`
+- `I look forward to your reply.`
+- Question marks and sentence-initial capitals.
+
+Current status: **8.5/10 — not mastered yet.**
+
+Next attempt: hide the model and write the full email once. Do not add harder vocabulary; aim for complete accuracy with the current simple language.
+
+### Improved model — less repetitive and more cohesive
+
+> **Hi,**  
+>  
+> I reserved a room for two people, and I'll stay for two nights. I'll also bring a small pet, so could you please let me know whether pets are allowed and whether there is a pet fee?  
+>  
+> I understand that breakfast costs extra. Could you tell me how much it costs? I would also like to know whether the hotel has a laundry room and if it is free for guests.  
+>  
+> Finally, if possible, I'd like a room with an ocean view.  
+>  
+> Thank you for your help. I look forward to your reply.  
+>  
+> **Best wishes,**  
+> Ryu
+
+Why this version is stronger:
+
+- It avoids a repetitive series of `Does ...?` questions.
+- It uses polite indirect questions with `whether` and `if`.
+- It uses only a few natural linking expressions: `and`, `also`, `so`, `finally`, and `if possible`.
+- It remains simple and practical rather than adding unnecessary advanced vocabulary.
+
+Useful alternatives to repeated `Does ...?` questions:
+
+- `Could you please let me know whether ...?`
+- `Could you tell me if ...?`
+- `I would also like to know whether ...`
+- `Is there ...?`
+
+### `I want` versus `I would like`
+
+`I want` is direct and is natural when discussing personal goals or desires:
+
+- `I want to improve my English.`
+- `I want to travel abroad.`
+
+`I would like` or `I'd like` is softer and more polite. It is preferable for requests, bookings, orders, and service interactions:
+
+- `I'd like to reserve a room.`
+- `I'd like a room with an ocean view.`
+
+Grammar patterns:
+
+| Direct | Polite |
+|---|---|
+| `I want + noun` | `I'd like + noun` |
+| `I want + to + verb` | `I'd like + to + verb` |
+
+### Updated mastery status — 2026-08-09
+
+Latest independent attempt: **9.5/10**.
+
+The learner successfully used nearly every target pattern. Only `two nights`, general plural `pets`, and punctuation spacing remained. One delayed independent rewrite is required next session before marking the email as mastered.
