@@ -27,6 +27,8 @@
 - Do not force academic vocabulary when simple words communicate the idea accurately.
 - Keep model answers at the end or hidden until the task is complete.
 - Use a friendly, direct, playful coaching style without long lectures.
+- For writing corrections, preserve the learner's original text and show edits inline using ~~strikethrough~~ for mistakes and **bold** for replacements. Follow with only the highest-value explanations.
+- Do not repeatedly request a full rewrite after the learner has demonstrated the structure. Switch topics and retest unstable language later through spaced retrieval.
 - Default interaction language: **English**.
 - When the learner writes incorrect English, correct it **before** answering the message or continuing the exercise.
 - Use Vietnamese only when the learner explicitly requests a Vietnamese explanation.
@@ -69,6 +71,9 @@ Track more than grammar:
 | Fluency | Pauses longer than three seconds and excessive self-correction |
 | Recurring errors | Errors repeated after correction |
 | Mastered items | Structures used correctly several times in new contexts |
+| Practice consistency | Logged practice days per week |
+| Active study time | Start, end, and estimated active duration excluding identifiable idle gaps |
+| Forecast confidence | Amount and quality of four-skill evidence supporting a target-date estimate |
 
 Status labels:
 
@@ -458,3 +463,297 @@ After each session, add:
 - A specific target for the next session.
 
 Never erase old history. If an earlier assessment becomes outdated, add new evidence and update its status.
+
+## 10. Strategy update — 2026-08-10
+
+**Saved at:** 2026-08-10 01:10:59 (UTC+07:00, Asia/Bangkok)
+
+### Revised goals
+
+- Become confident in basic everyday communication within six months.
+- Work toward an overall IELTS band score of 6.5.
+- Continue using simple, practical English as the foundation for accuracy and fluency.
+
+### Honest feasibility assessment
+
+- Basic everyday communication within six months is realistic with consistent active study on most days.
+- IELTS 6.5 within six months is possible but cannot yet be predicted because there is no baseline for Listening, Reading, or Speaking and only limited Writing evidence.
+- Do not promise a band score or deadline until a four-skill diagnostic has been completed.
+
+### New role for Duolingo
+
+Duolingo is useful but must not be the complete curriculum. Use it for approximately 15–20% of study time as:
+
+- A daily habit.
+- A source of high-frequency vocabulary and sentence patterns.
+- Short listening, pronunciation, and mistake-review practice.
+- Input that is transformed into active Writing and Speaking tasks.
+
+Core workflow:
+
+> Duolingo input → Writing retrieval → Speaking without reading → correction → active reproduction → delayed review → IELTS application
+
+### Recommended daily routine — 90 minutes
+
+| Activity | Time |
+|---|---:|
+| Duolingo | 15 minutes |
+| Listening and shadowing | 20 minutes |
+| Conversation or recorded Speaking | 25 minutes |
+| Writing or Reading | 20 minutes |
+| Error correction and reproduction | 10 minutes |
+
+The key rule is that recognising the correct answer is insufficient. The learner must produce the language independently.
+
+### Six-month roadmap
+
+#### Months 1–2 — Basic communication
+
+- Cover everyday topics such as hotels, food, work, transportation, health, and routines.
+- Speak for 30–60 seconds per topic.
+- Make basic grammar patterns automatic.
+- Build high-frequency vocabulary.
+- Practise listening every day.
+
+#### Months 3–4 — Connected communication
+
+- Speak for one to two minutes.
+- Give reasons and examples.
+- Begin IELTS Speaking Part 1.
+- Develop paragraph writing.
+- Learn IELTS question types.
+- Complete the first full diagnostic test.
+
+#### Months 5–6 — IELTS preparation
+
+- Practise all four sections every week.
+- Complete timed Writing and Reading tasks.
+- Practise IELTS Speaking Parts 1–3.
+- Take regular mock tests.
+- Target the weakest component using measured evidence.
+
+### Current evidence
+
+- Hotel email improved from approximately 7/10 to 9.5/10.
+- Vocabulary retention and attention to meaning are strengths.
+- The learner now notices tone, repetition, politeness, and cohesion.
+- Basic grammar can be correct in isolated drills but still regress during longer writing.
+- No reliable Speaking, Listening, Reading, or IELTS-band baseline exists yet.
+
+### Immediate next priorities
+
+1. Complete one delayed, independent rewrite of the hotel email to confirm mastery.
+2. Run a four-skill baseline assessment.
+3. Begin daily active Speaking rather than postponing it until Writing is perfect.
+4. Use the 70/20/10 lesson split: 70% production, 20% correction and repetition, 10% progress tracking.
+5. Convert each new Duolingo lesson into communicative practice instead of following the app path alone.
+
+### Important teaching principles
+
+- Correct the learner's English before answering.
+- Translate Vietnamese requests into natural English and require reproduction before continuing a lesson.
+- Preserve meaning; exact memorisation is not required.
+- Use mastery loops for important tasks, but do not let one Writing task indefinitely block Speaking practice.
+- Retest corrected structures inside longer answers because isolated accuracy does not prove automatic use.
+- Prefer simple, natural English over unnecessary advanced vocabulary.
+- Record scores, representative errors, regressions, improvements, and next actions after every session.
+
+## 11. Session update — 2026-08-11
+
+### New learner evidence
+
+- The learner reports that Listening and Reading are comparatively strong and that technical IT documentation is comfortable to understand. This is useful evidence but remains self-reported; verify it with general and IELTS-style material.
+- Productive English appears provisionally around A2 with some early-B1 features. This is not a formal CEFR or IELTS result.
+- Meaning, organisation, and polite language are strengths. The learner can sustain practical hotel and restaurant interactions and can express preferences, reasons, and requests.
+- Accuracy still drops under a larger language load. Recurring examples include third-person singular (`breakfast costs`), articles, singular/plural agreement, embedded-question order, and verb forms such as `I'll be bringing`.
+- The learner correctly distinguished and reproduced direct and indirect questions after correction: `How much does it cost?` and `Could you tell me how much it costs?`
+- In restaurant practice, the learner successfully requested non-spicy food, a drink, and dessert. New target: `non-spicy food` and `have fun` (not `make fun`).
+
+### Current planning estimate
+
+- Basic everyday fluency: approximately 2–4 months if the reported receptive strength is confirmed and the learner completes 60–90 minutes of active practice on most days.
+- IELTS 6.5: a conditional estimate of approximately 6–12 months if Listening and Reading are already strong; otherwise 9–18 months is more realistic.
+- Do not treat either estimate as a promise. Complete a four-skill diagnostic before narrowing the IELTS timeline.
+
+### Daily training target
+
+- Preferred target: 60–90 minutes, six days per week.
+- Full routine: 15 minutes Duolingo/vocabulary, 20 Listening and shadowing, 25 Speaking, 20 Reading/Writing, and 10 error review and reproduction.
+- Busy-day minimum: 30 minutes split between Listening, Speaking, and error review.
+- Prioritise Speaking and Writing because receptive ability likely exceeds productive accuracy.
+
+### Next actions
+
+1. Begin a short four-skill diagnostic, with natural communication rather than a long formal setup.
+2. Collect a Speaking sample on a new everyday topic and measure response length, clarity, grammar, and fluency.
+3. Verify Listening and Reading using non-technical general material and later an IELTS-style timed sample.
+4. Continue delayed review of hotel-language errors, but do not keep the learner trapped in the same email task.
+
+### Session close — 2026-08-11
+
+- Created `DAILY_STUDY_PLAN.md`, an adaptive 30-day curriculum with daily learning, production, review, and measurement tasks plus a Months 2–12 roadmap.
+- Provisional planning dates saved:
+  - Four-skill baseline: 2026-08-17.
+  - First 30-day checkpoint: 2026-09-09.
+  - Working basic-communication target: 2026-11-11, with a cautious window through 2026-12-11.
+  - Working IELTS 6.5 target: 2027-05-11, with a provisional window from 2027-02-11 to 2027-08-11.
+- Day 1 goals were introduced but the assessment was not completed because the learner ended the session to sleep.
+- Day 1 targets already presented: frequency words, present simple for routines, six quick Speaking answers, one 45–60 second connected answer, and review of `feel tired`, `stay up late`, and `a cup of coffee`.
+- No valid Day 1 Speaking measurements were collected yet. Resume at quick Speaking question 1 of 6.
+- Saved session-closing language: `Okay, record everything in my learning history. I'm going to sleep now.`
+
+### Late mini-practice — 2026-08-11
+
+- Completed three short previews of the Day 1 routine topic.
+- Correctly produced after correction:
+  - `On weekdays, I usually wake up at 10 a.m., and the first thing I do is turn on my computer.`
+  - `I often stay up late because I play games until late at night.`
+  - `I feel exhausted the next morning. Then I take a shower and have a coffee to wake myself up.`
+- New or reviewed patterns:
+  - `the first thing I do is + base verb`
+  - `play games until late at night`
+  - `feel exhausted`
+  - `wake myself up`
+  - `have a coffee` / `have a cup of coffee`
+- Corrections required during practice: missing `is`, missing conjunction `and`, `play game` instead of `play games`, `until at night` instead of `until late at night`, frequency redundancy (`often` plus `usually`), and spelling errors `feed`/`myseft` for `feel`/`myself`.
+- Final two-sentence answer was fully correct. Retest the three target patterns with different details after a delay.
+
+### Day 1 Speaking baseline completed — 2026-08-11
+
+- Completed six short routine questions plus one connected 45–60-second-equivalent response about sleep habits.
+- The final response was approximately 100 words and contained a clear opening, current problem, reason, desired change, and ideal morning routine.
+- Communication strengths: meaning remained clear throughout; ideas were logically sequenced; the learner independently reused `stay up quite late`, `a cup of coffee`, `cold water`, and `go outside for a walk`; response length exceeded the minimum target.
+- Main accuracy problems in the connected response:
+  - Sentence fragments beginning with `Because` and `If`.
+  - Frequency redundancy and placement: `usually ... very late often`.
+  - Time/preposition phrases: `at afternoon at 2 p.m.` instead of `in the afternoon, sometimes as late as 2 p.m.`.
+  - Collocations/forms: `at the latest`, `After that`, `stretch for a few minutes`, and `before going outside`.
+  - Present-simple routine language was generally understandable but not yet automatic under a larger language load.
+- Provisional productive assessment remains A2 with early-B1 features: strong connected meaning and emerging cohesion, with frequent basic-form errors. This is not an IELTS band.
+- Typed sample limitation: pronunciation, hesitation, pause length, and true real-time fluency were not measured.
+- Day 1 status: completed. Begin Day 2 Listening baseline next, after a short delayed review of three high-value Day 1 corrections.
+
+## 12. Progress update — 2026-08-12
+
+### Sleep-routine delayed rewriting
+
+- The learner independently rewrote the sleep-routine response several times after reading a model.
+- Strong retention of the overall structure: current routine → negative result → desired change → ideal morning.
+- Correctly and independently reused higher-value expressions including:
+  - `At the moment`
+  - `As a result`
+  - `browse social media`
+  - `develop a healthier routine`
+  - `a good day begins the night before`
+  - `Ideally, I'd like to ...`
+  - `a cup of coffee`
+  - `go outside for a walk`
+- Best delayed rewrite was assessed at approximately 9/10. Later rewrites remained clear and connected but fell to approximately 8.5/10 as basic errors returned under repeated free production.
+
+### Current recurring errors
+
+- Articles and determiners:
+  - `until afternoon` → `until the afternoon`
+  - `wastes large part` → `wastes a large part`
+  - `develop healthier routine` → `develop a healthier routine`
+- Third-person singular:
+  - `This make me` → `This makes me`
+- Conditional and auxiliary forms:
+  - `If I can go to bed earlier` → `If I go to bed earlier`
+  - `I'll able to` → `I'll be able to`
+- Verb patterns and collocations:
+  - `stretch a few minutes` → `stretch for a few minutes`
+  - `if I have somethings need to do` → `if I have something important to do/finish`
+- Time and fixed phrases:
+  - `at the night before` → `the night before`
+  - `at this moment` is possible, but `at the moment` is the natural choice for the current situation.
+  - `no later than 11 p.m.` / `at 11 p.m. at the latest`
+- Mechanics:
+  - Commas after introductory phrases and conditional clauses.
+  - `a.m.` versus `p.m.` meaning needs attention; the learner accidentally wrote waking at 10 p.m. when 10 a.m. was intended.
+
+### Cohesion and style development
+
+- The learner explicitly asked about repetition and more natural ways to express ideas, showing growing awareness of style and cohesion.
+- Useful alternatives introduced:
+  - `As a result` → `Consequently`
+  - `sometimes` → `occasionally`
+  - `makes me feel tired` → `leaves me feeling tired`
+  - `develop a routine` → `build a routine`
+  - `stretch for a few minutes` → `do some light stretching`
+  - `go outside for a walk` → `take a walk outside`
+- Do not require advanced alternatives yet. Prioritize accurate articles, verb agreement, complete clauses, and natural collocations before lexical variety.
+
+### Updated assessment and next action
+
+- Productive performance remains provisionally A2 with early-B1 features: the learner can organize and sustain a roughly 100-word familiar-topic response, but basic grammar is not consistently automatic.
+- Meaning and organization are stronger than grammatical accuracy.
+- Day 1 remains complete. The repeated sleep-routine task supplied useful delayed-retrieval evidence but does not replace a real-time voice sample.
+- Next session: start Day 2 Listening baseline from `DAILY_STUDY_PLAN.md`. First spend no more than five minutes retesting `a healthier routine`, `a large part of my day`, and `I'll be able to`, then move to new Listening work.
+
+## 13. Listening baseline — completed 2026-08-15
+
+### Train-announcement task
+
+- The first task used a written passage read once as a listening simulation, so it is primarily a memory/reading-to-listening proxy rather than valid audio evidence.
+- Initial detail accuracy: 2/4. After supported delayed retrieval: 4/5.
+- Correctly calculated a revised departure time of 9:35 after a 20-minute delay.
+- Correctly reproduced: `They should stay in the station and listen for further announcements.`
+- Main comprehension issue: initially confused the cause of the delay (a technical problem) with the platform change and later added the unsupported inference that the technical problem would be solved in exactly 20 minutes.
+
+### Dentist-appointment audio task
+
+- Created and played an actual audio message once at normal synthetic speech speed.
+- The learner recalled all key details accurately: Daniel, dentist appointment, original Thursday morning schedule, new Friday afternoon appointment at 2:30, arrive 15 minutes early, bring identification, and call before 5 p.m. if unable to attend.
+- Detail score: 5/5.
+- Correctly inferred that the latest arrival time was 2:15 p.m.
+- Summary was coherent and preserved relationships between facts without unsupported additions.
+- Language corrections in the summary: `Originally`, `was scheduled for`, `fifteen minutes`, `identification card`, and spelling of `clinic`.
+
+### Current Listening assessment
+
+- Actual-audio evidence is promising and supports the learner's report that receptive skills may be stronger than productive accuracy.
+- One short, clear synthetic message is not enough to estimate IELTS Listening. Future samples should add natural speakers, different accents, longer passages, distractors, and timed IELTS-style questions.
+- Day 2 status: completed. Begin Day 3 Reading baseline next.
+
+## 14. Efficiency audit — 2026-08-15
+
+- Saved the learner's explicit preference for inline corrections: ~~incorrect wording~~ followed immediately by **the correction**.
+- Treat `DAILY_STUDY_PLAN.md` as an ordered adaptive sequence, not a rigid calendar. Do not skip a lesson because its planned date has passed; record the actual completion date and continue with the next incomplete day.
+- Current sequence status:
+  - Day 1 Speaking: completed 2026-08-11, but based on typed production; real-time voice fluency remains unmeasured.
+  - Day 2 Listening: completed 2026-08-15; actual synthetic-audio detail score 5/5 plus correct inference.
+  - Day 3 Reading: next.
+  - Day 4 Writing: pending.
+- Evidence labels to use in future records:
+  - **Verified:** directly measured in a suitable task.
+  - **Provisional:** supported by limited or indirect evidence.
+  - **Self-reported:** stated by the learner but not tested yet.
+- Keep session administration short. Spend most time on new English production and update memory at natural stopping points rather than interrupting every small exercise.
+- Do not narrow the IELTS timeline until Reading and Writing baselines are complete and Listening has been tested with at least one more natural or IELTS-style sample.
+- Maintain session timing and results in `PRACTICE_LOG.md`. Record exact timestamps when available and mark unknown historical values honestly rather than estimating them.
+- Use logged active time and delayed-retention evidence for future forecasts. Recalculate after at least seven logged practice days or at four-week checkpoints, not after every isolated result.
+
+## 15. Reading baseline — completed 2026-08-15
+
+### Repair-café passage
+
+- Read a short non-technical passage and answered factual, benefit, safety, inference, and true/false/not-given questions.
+- Main six-question result: approximately 5.5/6 (about 92%).
+- Strong factual recall: location, weekly schedule, payment condition, founder's motivation, community benefit, safety restriction, and lack of a permanent repair guarantee.
+- Correct inference: visitors may become volunteers after learning valuable practical skills.
+- Initially added one unsupported benefit (`improve their communication`) rather than limiting the answer to practical repair skills stated by the text.
+- On the final not-given check, incorrectly concluded that Maya did not receive government money. The text contained no funding information, so the correct answer was `Not Given`.
+- Reading comprehension is promising, but distinguishing `False` from `Not Given` requires targeted practice.
+
+### Timing
+
+- Recorded elapsed time: 12 minutes 46 seconds.
+- This included reading and composing six written answers, so it is not a valid pure reading-speed measurement.
+- For future timed Reading tasks, ask the learner to signal `Finished reading` before answering, or use separate reading and answer timers.
+
+### Language observed in answers
+
+- Meaning was consistently clear, but productive errors included subject-verb agreement (`visitors has`), perfect forms (`has been learn`), adjective/noun choice (`something value`), and `didn't received` instead of `didn't receive`.
+- New useful language: `valuable skills`, `explosion`, `could be dangerous`, and `The passage says ...`.
+- Day 3 status: completed. Begin Day 4 Writing baseline next.
